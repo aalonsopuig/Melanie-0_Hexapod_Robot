@@ -24,8 +24,7 @@ Melanie-0 fue un prototipo inicial de la saga de robots hexápodos "Melanie". Es
 En este repositorio puede encontrarse el código fuente de cada pata y del master en ensamblador, imágenes y vídeos. No hay esquemas eléctricos, pero básicamente eran módulos que se conectaban a los tres servos y a un puerto I2C común. El código está bastante documentado y se puede averiguar a qué estaba conectado cada pin del microcontrolador por los comentarios del código.<br>
 
 <ul>
-  <li><p align="justify"><a href="Media">Fotos</a></li>
-  <li><p align="justify"><a href="Media\melanie.avi">Vídeo</a></li>
+  <li><p align="justify"><a href="Media">Fotos y vídeos</a></li>
 </ul>
 
 
